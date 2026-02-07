@@ -61,7 +61,7 @@ Game ini dibangun dengan kebanggaan menggunakan teknologi Open Source:
 
 <div align="center">
   <h3>~ In-Game Preview ~</h3>
-  <img src="Main Menu/BackgroundMainMenu.png" alt="Main Menu Background" width="100%" style="border-radius: 10px;">
+  <img src="BackgroundMainMenu.png" alt="Main Menu Background" width="100%" style="border-radius: 10px;">
   <br><br>
   <p><i>"Tempat anak cucumu nanti merebah." — Bumi</i></p>
   <p>© 2024 Coralism Team. All Rights Reserved.</p>
