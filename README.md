@@ -38,7 +38,6 @@ Jika Anda berhasil, langit akan kembali cerah, dan Bumi akan menuliskan surat ci
 
 ## 👥 Meet the Team (Tim Pengembang)
 
-Project ini dipersembahkan oleh talenta-talenta luar biasa:
 
 | Contributor  | Roles & Responsibilities                                                                          |                                                                           GitHub Profile                                                                            |
 | :----------- | :------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -64,5 +63,5 @@ Game ini dibangun dengan kebanggaan menggunakan teknologi Open Source:
   <img src="BackgroundMainMenu.png" alt="Main Menu Background" width="100%" style="border-radius: 10px;">
   <br><br>
   <p><i>"Tempat anak cucumu nanti merebah." — Bumi</i></p>
-  <p>© 2024 Coralism Team. All Rights Reserved.</p>
+  <p>© 2026 Coralism Team. All Rights Reserved.</p>
 </div>
