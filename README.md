@@ -34,6 +34,9 @@ Di tengah keputusasaan ini, sebuah suara lembut memanggil dari kedalaman samudra
 
 Jika Anda berhasil, langit akan kembali cerah, dan Bumi akan menuliskan surat cinta terakhirnya untuk Anda.
 
+### DOWNLOAD GAME:
+https://kazanaru.itch.io/coralism
+
 ---
 
 ## 👥 Meet the Team (Tim Pengembang)
